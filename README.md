@@ -6,10 +6,10 @@ quick and dirty fork of https://github.com/cactus-d/ratpoison-sloppymove
 
 basically just did find-and-replace ratpoison with sdorfehs and it worked
 
-note that this behavior will conflict with sdorfehs' 'warp' setting. If you find a way around this let me know.
+note that this behavior will conflict with the 'warp' setting in sdorfehs. If you find a way around this let me know.
 
 
-## Use
+## use
 
 Add to your sdorfehs config
 
